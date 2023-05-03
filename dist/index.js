@@ -1,3 +1,5 @@
 "use strict";
 const courses = 'web dev simplified';
-console.log(courses);
+let rollNumber = 123;
+rollNumber = 456;
+const isAdmin = true;
