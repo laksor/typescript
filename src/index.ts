@@ -1,2 +1,6 @@
 const courses: string = 'web dev simplified';
-console.log(courses);
+
+let rollNumber : number = 123;
+rollNumber = 456;
+
+const isAdmin: boolean = true;
