@@ -17,3 +17,11 @@ const myFriends = ["chandler", "joey", "ross"];
 const newFriends = ["monica", "rachel", "phebe"];
 myFriends.push(...newFriends);
 console.log(myFriends);
+
+// rest parameter
+
+const greetFriends = (...friends:string[]):void => 
+friends.forEach((friend) =>
+console.log(`Hi ${friend}`));
+
+greetFriends("kashem", "hashem", "lama", "kama");
