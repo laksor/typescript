@@ -24,4 +24,4 @@ const greetFriends = (...friends:string[]):void =>
 friends.forEach((friend) =>
 console.log(`Hi ${friend}`));
 
-greetFriends("kashem", "hashem", "lama", "kama");
+greetFriends("kashem", "hashem", "lama", "kama", "malala");
