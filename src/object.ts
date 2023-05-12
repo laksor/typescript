@@ -5,7 +5,7 @@ const users: {
     isMarried: boolean;
 } = {
     company: "hero",
-    name: "mama",
+    name: "pro",
     age: 43,
     isMarried: true,
 };
