@@ -14,7 +14,7 @@ const newArr = arr.map((element:number ) => element * element);
 //spread operator
 
 const myFriends = ["chandler", "joey", "ross"];  
-const newFriends = ["monica", "rachel", "phebe"];
+const newFriends = ["monic", "rachel", "phebe"];
 myFriends.push(...newFriends);
 console.log(myFriends);
 
