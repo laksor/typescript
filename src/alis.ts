@@ -1,3 +1,5 @@
+// alias type
+
 type CrushType = {
     name: string;
     age?: number;
@@ -21,3 +23,6 @@ const crush2: CrushType =
     address: "ban",
 };
 
+// boolean alias  type
+type CrushMarriedType = boolean;
+const isCrushMarried: CrushMarriedType = false;
