@@ -26,3 +26,5 @@ const crush2: CrushType =
 // boolean alias  type
 type CrushMarriedType = boolean;
 const isCrushMarried: CrushMarriedType = false;
+
+//enum
