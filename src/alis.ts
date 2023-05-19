@@ -27,4 +27,4 @@ const crush2: CrushType =
 type CrushMarriedType = boolean;
 const isCrushMarried: CrushMarriedType = false;
 
-//enum
+
